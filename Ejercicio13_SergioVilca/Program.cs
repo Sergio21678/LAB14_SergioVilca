@@ -27,11 +27,12 @@ var app = builder.Build();
 
 // --- 2. Configurar el Pipeline HTTP ---
 
+app.UseSwagger();
+app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "Ejercicio13_SergioVilca v1"));
+
+
 if (app.Environment.IsDevelopment())
 {
-    // Usar Swagger solo en desarrollo
-    app.UseSwagger();
-    app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "Ejercicio13_SergioVilca v1"));
 }
 
 app.UseHttpsRedirection();
