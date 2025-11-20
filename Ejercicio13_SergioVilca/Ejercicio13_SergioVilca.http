@@ -1,0 +1,6 @@
+@Ejercicio13_SergioVilca_HostAddress = http://localhost:5152
+
+GET {{Ejercicio13_SergioVilca_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

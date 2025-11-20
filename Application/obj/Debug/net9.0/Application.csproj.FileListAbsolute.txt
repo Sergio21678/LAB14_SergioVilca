@@ -1,0 +1,15 @@
+C:\CICLO VI\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio_11\Ejercicio13_SergioVilca\Application\bin\Debug\net9.0\Application.deps.json
+C:\CICLO VI\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio_11\Ejercicio13_SergioVilca\Application\bin\Debug\net9.0\Application.dll
+C:\CICLO VI\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio_11\Ejercicio13_SergioVilca\Application\bin\Debug\net9.0\Application.pdb
+C:\CICLO VI\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio_11\Ejercicio13_SergioVilca\Application\bin\Debug\net9.0\Domain.dll
+C:\CICLO VI\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio_11\Ejercicio13_SergioVilca\Application\bin\Debug\net9.0\Domain.pdb
+C:\CICLO VI\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio_11\Ejercicio13_SergioVilca\Application\obj\Debug\net9.0\Application.csproj.AssemblyReference.cache
+C:\CICLO VI\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio_11\Ejercicio13_SergioVilca\Application\obj\Debug\net9.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\CICLO VI\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio_11\Ejercicio13_SergioVilca\Application\obj\Debug\net9.0\Application.AssemblyInfoInputs.cache
+C:\CICLO VI\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio_11\Ejercicio13_SergioVilca\Application\obj\Debug\net9.0\Application.AssemblyInfo.cs
+C:\CICLO VI\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio_11\Ejercicio13_SergioVilca\Application\obj\Debug\net9.0\Application.csproj.CoreCompileInputs.cache
+C:\CICLO VI\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio_11\Ejercicio13_SergioVilca\Application\obj\Debug\net9.0\Applicat.44B5EDA2.Up2Date
+C:\CICLO VI\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio_11\Ejercicio13_SergioVilca\Application\obj\Debug\net9.0\Application.dll
+C:\CICLO VI\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio_11\Ejercicio13_SergioVilca\Application\obj\Debug\net9.0\refint\Application.dll
+C:\CICLO VI\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio_11\Ejercicio13_SergioVilca\Application\obj\Debug\net9.0\Application.pdb
+C:\CICLO VI\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio_11\Ejercicio13_SergioVilca\Application\obj\Debug\net9.0\ref\Application.dll
